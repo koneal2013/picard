@@ -1,0 +1,10 @@
+{
+	"name": "Simple",
+	"type": "SimpleType",
+	"is_active": true,
+	"children": [],
+	"config": {
+		"ConfigA": "valueA",
+		"ConfigB": "valueB"
+	}
+}
